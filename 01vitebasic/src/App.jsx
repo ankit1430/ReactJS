@@ -1,6 +1,11 @@
+import Hello from "./Hello"
 function App() {
   return (
-    <h1>Hello Vite Project || Ankit Thakur</h1>
+    <>
+    <Hello/>
+    <h1>ReactJS Practice</h1>
+    <p>Lorem ipsum dolor sit amet.</p>
+    </>
   )
 }
 
